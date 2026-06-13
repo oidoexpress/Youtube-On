@@ -1,4 +1,7 @@
 streamlit
 google-api-python-client
 pandas
-requests
+matplotlib
+wordcloud
+konlpy
+numpy
