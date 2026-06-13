@@ -34,7 +34,7 @@ st.info(
 # API KEY
 # --------------------
 
-API_KEY = st.secrets["AIzaSyAfskAo3hwq83sKWCYs-pUgb_gChpvJ7tw"]
+API_KEY = AIzaSyAfskAo3hwq83sKWCYs-pUgb_gChpvJ7tw
 
 youtube = build(
     "youtube",
